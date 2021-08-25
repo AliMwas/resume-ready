@@ -128,3 +128,46 @@ In the end, I should choose tools that provide me some features such as  store, 
 * GitHub is a repository
 * Track changes in your code across versions
 * Integration options
+
+2.3
+
+Black box testing aids in the discovery of functional, usability, and other feature deficiencies. This type of testing provides a snapshot of a software's performance and output. It boosts software quality while slashing time to market. This type of testing reduces the likelihood of software problems at the conclusion of the user's journey.
+
+Agile techniques are being used by many businesses to assist enhance team performance, customer happiness, and project flexibility. Agile techniques enable organizations to adapt more quickly to market changes and complete more projects effectively. Agile training is a great approach to get your company and project team up to speed on the fundamentals of Agile and related implementation techniques. Many myths and misunderstandings concerning Agile operations may be cleared up through Agile training. It can also assist to highlight the differences between the various Agile implementation approaches and reveal the underlying Agile ideas.
+
+
+So, after reviewing all of the available tools, I decided to use a few of them to implement and develop the project. After conducting extensive research to select an IDE, I was torn between Visual Studio Code and PyCharm, but I discovered some features and advantages that make Visual Studio Code the winner. I'll mention some of the benefits of Visual Studio Code that make me want to use it more:
+
+1. Support for several platforms:
+Mac OS X Windows Linux Light-weight
+2. Architecture that is strong
+3. Intelli-Sense
+4. Freeware: The biggest benefit of all is that it is free for all programmers, and much more so for businesses.
+5. While many users may only use it for desktop programs, it also has strong tool support for Web technologies including as HTML, CSS, and JSON.
+
+Among the extensions available is a live server extension. This add-on is based on Live, which is my current server. Additionally, we may use this plugin to get live functionality for dynamic web pages. By making my existing server live, we'll be able to update the active dynamic content capability on this web extension.
+
+
+
+For a variety of reasons, I chose Ubuntu Linux as my operating system, the most important of which is that it is more suitable for me since it is fluid and adaptable. Another cause is the terminal and file system. Because most of Linux was built to run on servers, I can use the terminal to examine the system completely.
+
+
+Finally, I should pick technologies that allow me to save, manage, track, and control changes, thus I chose GitHub for the following reasons:
+
+It makes contributing to your open-source projects a breeze.
+Documentation
+Markdown is a great way to show off your work.
+GitHub is a website where you may save your files.
+Changes in your code should be tracked between versions.
+Options for integration.
+
+## references
+https://code.visualstudio.com/docs
+
+https://www.jetbrains.com/pycharm/
+
+https://techcrunch.com/2012/07/14/what-exactly-is-github-anyway/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAIQxgt6UTTsOUDtBxhoSIBQVw6PGnHzYF5z1-M6x93ZMXiy2lpBdhl6C9u7ssG028vThFvp8CqG4cBQHfv_3S_A0Jr3kAcuDD4eUhXzkumCVqY7ysBDH9cywhQ2eCKlBcs6Wiwta0rPm88L2-JbMBzQQO4W8tpv1v4eK6ojTNic4
+
+https://about.gitlab.com/
+
+https://www.guru99.com/black-box-testing.html
